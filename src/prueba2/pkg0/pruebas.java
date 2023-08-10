@@ -11,4 +11,5 @@ package prueba2.pkg0;
  */
 public class pruebas {
     private String nombres;
+    private int num;
 }
